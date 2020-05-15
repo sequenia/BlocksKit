@@ -25,6 +25,7 @@
 //  THE SOFTWARE.
 //
 
+#import <BlocksKit/BlocksKit.h>
 #import <BlocksKit/UIActionSheet+BlocksKit.h>
 #import <BlocksKit/UIAlertView+BlocksKit.h>
 #import <BlocksKit/UIBarButtonItem+BlocksKit.h>
@@ -35,3 +36,5 @@
 #import <BlocksKit/UIView+BlocksKit.h>
 #import <BlocksKit/UITextField+BlocksKit.h>
 #import <BlocksKit/UIImagePickerController+BlocksKit.h>
+#import <BlocksKit/UIImage+BlocksKit.h>
+
