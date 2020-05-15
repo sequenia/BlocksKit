@@ -26,15 +26,18 @@
 //
 
 #import <BlocksKit/BlocksKit.h>
+
 #import <BlocksKit/UIActionSheet+BlocksKit.h>
 #import <BlocksKit/UIAlertView+BlocksKit.h>
 #import <BlocksKit/UIBarButtonItem+BlocksKit.h>
 #import <BlocksKit/UIControl+BlocksKit.h>
 #import <BlocksKit/UIGestureRecognizer+BlocksKit.h>
+#import <BlocksKit/UIImage+BlocksKit.h>
+#import <BlocksKit/UIImagePickerController+BlocksKit.h>
 #import <BlocksKit/UIPopoverController+BlocksKit.h>
 #import <BlocksKit/UITextField+BlocksKit.h>
 #import <BlocksKit/UIView+BlocksKit.h>
 #import <BlocksKit/UITextField+BlocksKit.h>
+#import <BlocksKit/UITextView+BlocksKit.h>
 #import <BlocksKit/UIImagePickerController+BlocksKit.h>
-#import <BlocksKit/UIImage+BlocksKit.h>
 
